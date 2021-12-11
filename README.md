@@ -1,2 +1,26 @@
-# choose-your-pokemon-VUE
-Voici, mon devoir sur POKE API, ou on récupère les pokémon de L'API, et on les affiches sur notre Single page applicaton
+# pokemon
+Le projet est sur VUE2 
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
